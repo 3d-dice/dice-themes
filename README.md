@@ -1,2 +1,3 @@
-# dice-themes
-3d dice and skins for use with dice-box
+# Dice Themes
+This project contains multiple themes for use with @3d-dice/dice-box.
+
