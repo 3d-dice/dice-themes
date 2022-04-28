@@ -29,6 +29,6 @@
 		"url": "https://github.com/3d-dice/dice-themes/issues"
 	},
   "files": [
-		"./"
+		"*"
 	]
 }
