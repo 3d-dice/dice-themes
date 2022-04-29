@@ -1,0 +1,15 @@
+{
+  "name": "Purple Rock",
+  "systemName": "purpleRock",
+  "author": "Frank Ali",
+  "version": 0.1,
+  "material": {
+    "type": "standard",
+    "diffuseTexture": "diffuse.jpg",
+    "bumpTexture": "normal.png",
+    "specularTexture": "specularity.jpg",
+    "diffuseLevel": 1,
+    "bumpLevel": 0.5,
+    "specularPower": 0.5
+  }
+}
