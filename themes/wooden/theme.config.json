@@ -1,0 +1,14 @@
+{
+  "name": "Wooden",
+  "systemName": "wooden",
+  "author": "Frank Ali",
+  "version": 0.1,
+  "material": {
+    "type": "standard",
+    "diffuseTexture": "diffuse2.jpg",
+    "bumpTexture": "normal2.png",
+    "specularTexture": "specularity3.jpg",
+    "diffuseLevel": 1,
+    "bumpLevel": 0.2
+  }
+}
