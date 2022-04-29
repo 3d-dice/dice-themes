@@ -1,0 +1,15 @@
+{
+  "name": "Blue Green Weathered Metal",
+  "systemName": "blueGreenMetal",
+  "author": "Frank Ali",
+  "version": 0.1,
+  "material": {
+    "type": "standard",
+    "diffuseTexture": "diffuse.jpg",
+    "bumpTexture": "normal.png",
+    "specularTexture": "roughness.jpg",
+    "diffuseLevel": 1,
+    "bumpLevel": 0.5,
+    "specularPower": 1
+  }
+}
