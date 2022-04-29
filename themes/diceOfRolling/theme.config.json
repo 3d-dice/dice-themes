@@ -7,7 +7,9 @@
     "type": "standard",
     "diffuseTexture": "diffuse.jpg",
     "bumpTexture": "../default/normal.png",
-    "diffuseLevel": 1.4,
-    "bumpLevel": 0.6
+    "specularTexture": "specularity.jpg",
+    "diffuseLevel": 1,
+    "bumpLevel": 0.6,
+    "specularPower": 1
   }
 }
