@@ -1,0 +1,19 @@
+{
+  "name": "Gemstone",
+  "systemName": "gemstone",
+  "author": "Frank Ali",
+  "version": 0.1,
+  "meshName": "gemstone",
+  "meshFile": "gemstone.json",
+  "material": {
+    "type": "color",
+    "diffuseTexture": {
+      "light": "gemstone-light.png",
+      "dark": "gemstone-dark.png"
+    },
+    "bumpTexture": "normal.png",
+    "diffuseLevel": 1,
+    "bumpLevel": 0.5
+  },
+  "d4FaceDown": false
+}
