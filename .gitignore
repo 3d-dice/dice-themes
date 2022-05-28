@@ -6,4 +6,4 @@ dist-ssr
 /themes/default
 notes.txt
 stats.html
-.blend1
+*.blend1
