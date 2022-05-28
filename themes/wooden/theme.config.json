@@ -3,6 +3,8 @@
   "systemName": "wooden",
   "author": "Frank Ali",
   "version": 0.1,
+  "meshName": "smoothDice",
+  "meshFile": "smoothDice.json",
   "material": {
     "type": "standard",
     "diffuseTexture": "diffuse.jpg",
