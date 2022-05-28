@@ -1,10 +1,10 @@
 {
-	"name": "@3d-dice/theme-purple-rock",
+	"name": "@3d-dice/theme-rock",
   "private": false,
 	"author": {
 		"name": "Frank Ali"
 	},
-	"description": "Purple rock skin",
+	"description": "Rock textured theme with configurable colors",
 	"version": "0.1.0",
 	"keywords": [
 		"3D",
@@ -22,7 +22,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/3d-dice/dice-themes",
-    "directory": "themes/purpleRock"
+    "directory": "themes/rock"
 	},
 	"bugs": {
 		"url": "https://github.com/3d-dice/dice-themes/issues"
