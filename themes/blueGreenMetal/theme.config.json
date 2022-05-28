@@ -3,6 +3,8 @@
   "systemName": "blueGreenMetal",
   "author": "Frank Ali",
   "version": 0.1,
+  "meshName": "smoothDice",
+  "meshFile": "smoothDice.json",
   "material": {
     "type": "standard",
     "diffuseTexture": "diffuse.jpg",
@@ -11,5 +13,10 @@
     "diffuseLevel": 1,
     "bumpLevel": 0.5,
     "specularPower": 1
+  },
+  "physics": {
+    "mass": 3,
+    "friction": 0.4,
+    "restitution": 0.2
   }
 }
