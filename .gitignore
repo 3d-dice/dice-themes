@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+/themes/default
+notes.txt
+stats.html
+.blend1
