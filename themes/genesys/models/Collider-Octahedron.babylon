@@ -1,12 +1,8 @@
 {"producer":{"name":"Blender","version":"3.3.0","exporter_version":"3.3-beta 1","file":"Collider_Octahedron.babylon"},
 "autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
-"materials":[{"name":"Dice_Material","id":"Dice_Material","customType":"BABYLON.StandardMaterial","emissive":[0,0,0],"specularPower":43.52,"indexOfRefraction":0.6897, 
-"diffuseTexture":{"name":"dice_diffuse_trimsheet.png","hasAlpha":true,"level":1,"coordinatesMode":0,"coordinatesIndex":0,"wrapU":1,"wrapV":1}, 
-"specularTexture":{"name":"dice_specular_trimsheet.png","hasAlpha":true,"level":1,"coordinatesMode":0,"coordinatesIndex":0,"wrapU":1,"wrapV":1}, 
-"bumpTexture":{"name":"dice_normal_trimsheet.png","hasAlpha":true,"level":1,"coordinatesMode":0,"coordinatesIndex":0,"wrapU":1,"wrapV":1}}],
-"meshes":[{"name":"Collider-Octahedron","id":"Collider-Octahedron","materialId":"Dice_Material","billboardMode":0,"position":[0,0.1,0.3],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"isEnabled":false,"checkCollisions":true,"pickable":false
-,"positions":[-0.0702,0,0.0702,-0.0702,0,-0.0702,0,0.1,0,0.0702,0,0.0702,-0.0702,0,0.0702,0,0.1,0,-0.0702,0,-0.0702,0.0702,0,-0.0702,0,0.1,0,0.0702,0,-0.0702,0.0702,0,0.0702,0,0.1,0,-0.0702,0,-0.0702,0,-0.1,0,0.0702,0,-0.0702,0.0702,0,-0.0702,0,-0.1,0
-,0.0702,0,0.0702,0.0702,0,0.0702,0,-0.1,0,-0.0702,0,0.0702,-0.0702,0,0.0702,0,-0.1,0,-0.0702,0,-0.0702]
+"meshes":[{"name":"Collider-Octahedron","id":"Collider-Octahedron","billboardMode":0,"position":[0,0.1,0.3],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"isEnabled":false,"checkCollisions":true,"pickable":false
+,"positions":[-0.0773,0,0.0773,-0.0773,0,-0.0773,0,0.11,0,0.0773,0,0.0773,-0.0773,0,0.0773,0,0.11,0,-0.0773,0,-0.0773,0.0773,0,-0.0773,0,0.11,0,0.0773,0,-0.0773,0.0773,0,0.0773,0,0.11,0,-0.0773,0,-0.0773,0,-0.11,0,0.0773,0,-0.0773,0.0773,0,-0.0773,0,-0.11,0
+,0.0773,0,0.0773,0.0773,0,0.0773,0,-0.11,0,-0.0773,0,0.0773,-0.0773,0,0.0773,0,-0.11,0,-0.0773,0,-0.0773]
 ,"normals":[-0.818,0.575,0,-0.818,0.575,0,-0.818,0.575,0,0,0.575,0.818,0,0.575,0.818,0,0.575,0.818,0,0.575,-0.818,0,0.575,-0.818,0,0.575,-0.818,0.818,0.575,0,0.818,0.575,0,0.818,0.575,0,0,-0.575,-0.818,0,-0.575,-0.818,0,-0.575,-0.818,0.818,-0.575,0,0.818,-0.575,0
 ,0.818,-0.575,0,0,-0.575,0.818,0,-0.575,0.818,0,-0.575,0.818,-0.818,-0.575,0,-0.818,-0.575,0,-0.818,-0.575,0]
 ,"uvs":[0,1,0,0,0,1,1,1,0,1,1,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,1,0,0]
