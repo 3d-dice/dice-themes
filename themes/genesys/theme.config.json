@@ -9,9 +9,10 @@
     "type": "standard",
     "diffuseTexture": "diffuse.png",
     "specularTexture": "specular.png",
-    "specularPower": 1,
+    "specularPower": 43.52,
     "diffuseLevel": 1,
-    "bumpLevel": 0.2
+    "bumpTexture": "normal.png",
+    "bumpLevel": 1
   },
   "diceAvailable": ["dboost", "dsetback", "dability", "ddifficulty", "dchallenge", "dproficiency"],
   "d4FaceDown": false
