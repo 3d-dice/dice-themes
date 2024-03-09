@@ -1,0 +1,19 @@
+{
+  "name": "Genesys",
+  "systemName": "genesys",
+  "author": "Arran France",
+  "version": 0.1,
+  "meshName": "genesys",
+  "meshFile": "genesys.json",
+  "material": {
+    "type": "standard",
+    "diffuseTexture": "diffuse.png",
+    "specularTexture": "specular.png",
+    "specularPower": 43.52,
+    "diffuseLevel": 1,
+    "bumpTexture": "normal.png",
+    "bumpLevel": 1
+  },
+  "diceAvailable": ["dboost", "dsetback", "dability", "ddifficulty", "dchallenge", "dproficiency"],
+  "d4FaceDown": false
+}
