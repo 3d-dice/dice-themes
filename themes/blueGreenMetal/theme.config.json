@@ -2,7 +2,7 @@
   "name": "Blue Green Weathered Metal",
   "systemName": "blueGreenMetal",
   "author": "Frank Ali",
-  "version": 0.1,
+  "version": 0.2,
   "meshName": "smoothDice",
   "meshFile": "smoothDice.json",
   "material": {
@@ -18,5 +18,6 @@
     "mass": 3,
     "friction": 0.4,
     "restitution": 0.2
-  }
+  },
+  "diceAvailable": ["d4","d6","d8","d10","d12","d20","d100"]
 }
