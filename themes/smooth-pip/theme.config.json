@@ -3,7 +3,7 @@
   "systemName": "smooth-pip",
   "extends": "smooth",
   "author": "Frank Ali",
-  "version": 0.1,
+  "version": 0.2,
   "meshFile": "smooth-pip.json",
   "material": {
     "type": "color",
