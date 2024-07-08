@@ -2,7 +2,7 @@
   "name": "Smooth Dice",
   "systemName": "smooth",
   "author": "Frank Ali",
-  "version": 0.1,
+  "version": 0.2,
   "meshName": "smoothDice",
   "meshFile": "smoothDice.json",
   "material": {
